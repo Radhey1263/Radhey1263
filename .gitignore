@@ -1,0 +1,26 @@
+# Compiled classes
+bin/
+*.class
+
+# Database files
+db_data/
+*.dat
+*.meta
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+sources.txt
+*.log
+
+# Build artifacts
+target/
+build/
+dist/
